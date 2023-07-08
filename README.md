@@ -1,3 +1,3 @@
-# goit-markup-hw-02
-Second homework, HTML+CSS
-Created new page - Portfolio and linked CSS styles for both pages.
+# goit-markup-hw-03
+Third homework, FlexBox
+Styled both pages. Make look like in design.
